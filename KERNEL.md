@@ -79,8 +79,8 @@ All metrics are defined operationally. No metric is measured by the AI producing
 
 ### Judging
 - Human, post-session
-- Blind to which arm produced the output
-- Against defined ground truth, not vibe
+- Judging criteria defined in advance where applicable
+- Blinding is not guaranteed; model/style differences may reveal arm identity
 
 ## What Is NOT in the Kernel
 

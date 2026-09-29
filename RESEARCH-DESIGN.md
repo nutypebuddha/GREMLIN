@@ -31,7 +31,7 @@ These confounds mean the experiment is currently **qualitative, not controlled**
 
 ## Measurement
 
-See [KERNEL.md](KERNEL.md#metrics) for operational definitions. All metrics are judged by a human, post-session, blind to which arm produced the output.
+See [KERNEL.md](KERNEL.md#metrics) for operational definitions. All metrics are judged by a human, post-session. Blinding is not guaranteed; model/style differences may reveal arm identity.
 
 ## What We're Testing
 

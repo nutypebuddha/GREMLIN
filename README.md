@@ -1,37 +1,50 @@
 # GREMLIN
 
-**Generation 1 — Active R&D**
+Research protocol for testing how little structure an AI needs between
+sessions.
 
-GREMLIN is a research project testing how little external structure a capable AI needs to carry between sessions to behave usefully.
+**Author:** Laverna Ashley Wintermore
 
-It grew out of a longer lineage — RuneCore, EVE/NOMIC, Rune Forge — built around one recurring rule: **capability is not authority, and presentation (a "skin," a persona, a fictional frame) must never manufacture evidence or consent on its own.**
+> Capability is not authority.
+> Presentation cannot manufacture evidence or consent.
 
-## The Core Rule
+## The clock
 
-> Capability is not authority. Presentation must never manufacture evidence or consent.
+SPOTLIGHT → SLASH → CHECK → SKIN
 
-## The Clock
+- **SPOTLIGHT** — find the actual ask.
+- **SLASH** — one grounded step or reframe.
+- **CHECK** — can each claim point to its source? If no → SHEATHED.
+- **SKIN** — presentation only, never evidence.
 
-```
-SPOTLIGHT  →  find the actual ask
-SLASH      →  one grounded step or reframe
-CHECK      →  can I point to where each claim came from? If no → SHEATHED
-SKIN       →  presentation only
-```
+## Legitimate outputs
 
-## Legitimate Outputs
-
-1. An answer
-2. "I don't know"
-3. SHEATHED (no action)
+An answer, "I don't know", or SHEATHED.
 
 ## Status
 
-Nothing here is proven. It's an active, self-critical R&D project that explicitly tracks its own failed experiments rather than only its wins.
+**Status:** active research. Findings are provisional and failed experiments
+are kept visible.
+
+## Why this exists (60 seconds)
+
+1. Asked for exact conversation energy use.
+2. The original protocol chained real sources to unsupported assumptions and
+   produced false precision.
+3. That failure caused CHECK to be added.
+4. A later n=1 retest returned "I don't know" instead of inventing precision.
+
+The retest is n=1 with no public transcript yet; it does not prove
+effectiveness. The story is fail → patch → n=1 retest, not a solved problem.
 
 ## Lineage
 
-RuneCore → EVE/NOMIC → Rune Forge → **GREMLIN (Gen 1)**
+Historical lineage:
+RuneCore → EVE/NOMIC → Rune Forge → GREMLIN
+
+Earlier lineage artifacts are historical, private, incomplete, or archived;
+GREMLIN stands on its own and does not require them to evaluate the current
+documents.
 
 ## Repository Structure
 
