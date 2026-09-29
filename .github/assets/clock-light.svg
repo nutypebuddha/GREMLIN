@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="wm-title wm-desc">
+<title id="wm-title">GREMLIN clock diagram</title>
+<desc id="wm-desc">Four stages top to bottom: SPOTLIGHT, SLASH, CHECK, SKIN.</desc>
+<rect width="400" height="300" fill="#faf7f8"/>
+<g font-family="ui-monospace, Consolas, monospace" font-size="15" letter-spacing="3" text-anchor="middle">
+<rect x="90" y="12" width="220" height="44" fill="#ffffff" stroke="#1c1620" stroke-width="1.5"/>
+<text x="200" y="40" fill="#1c1620">SPOTLIGHT</text>
+<text x="200" y="76" font-size="12" fill="#c81d63">↓</text>
+<rect x="90" y="86" width="220" height="44" fill="#ffffff" stroke="#1c1620" stroke-width="1.5"/>
+<text x="200" y="114" fill="#1c1620">SLASH</text>
+<text x="200" y="150" font-size="12" fill="#c81d63">↓</text>
+<rect x="90" y="160" width="220" height="44" fill="#f6dbe7" stroke="#c81d63" stroke-width="1.5"/>
+<text x="200" y="188" fill="#1c1620">CHECK</text>
+<text x="200" y="224" font-size="12" fill="#c81d63">↓</text>
+<rect x="90" y="234" width="220" height="44" fill="#ffffff" stroke="#8a8790" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="200" y="262" fill="#4a4250">SKIN</text>
+</g>
+</svg>

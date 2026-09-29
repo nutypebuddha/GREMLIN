@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gremlin-masthead-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/gremlin-masthead-light.svg">
+  <img alt="GREMLIN — research file, generation 01, Wintermore Housekeeping" src=".github/assets/gremlin-masthead-light.svg" width="640">
+</picture>
+
 # GREMLIN
 
 Research protocol for testing how little structure an AI needs between
@@ -9,6 +15,12 @@ sessions.
 > Presentation cannot manufacture evidence or consent.
 
 ## The clock
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/clock-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/clock-light.svg">
+  <img alt="Clock diagram: SPOTLIGHT, then SLASH, then CHECK, then SKIN" src=".github/assets/clock-light.svg" width="400">
+</picture>
 
 SPOTLIGHT → SLASH → CHECK → SKIN
 
@@ -25,6 +37,19 @@ An answer, "I don't know", or SHEATHED.
 
 **Status:** active research. Findings are provisional and failed experiments
 are kept visible.
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stamp-active-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/stamp-active-light.svg">
+    <img alt="Status: active research" src=".github/assets/stamp-active-light.svg" height="36">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stamp-provisional-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/stamp-provisional-light.svg">
+    <img alt="Status: provisional" src=".github/assets/stamp-provisional-light.svg" height="36">
+  </picture>
+</p>
 
 ## Why this exists (60 seconds)
 

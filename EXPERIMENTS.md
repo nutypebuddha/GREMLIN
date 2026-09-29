@@ -37,6 +37,14 @@ so the central arm comparison is not complete.
 the same metric definitions as the pristine arm. No messy-arm output has been
 recovered from repository history, branches, or tags as of this writing.)*
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stamp-gap-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/stamp-gap-light.svg">
+    <img alt="Status: open evidence gap" src=".github/assets/stamp-gap-light.svg" height="36">
+  </picture>
+</p>
+
 ---
 
 ## Failed Experiments
@@ -63,6 +71,14 @@ Ran a real web search, found real published figures (mJ/token for 70B/120B model
 **Retest (n=1):** the patched protocol returned "I don't know" rather than the
 unsupported numeric estimate. The original transcript is not currently
 included in this repository. This is one run, not proof of effectiveness.
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stamp-n1-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/stamp-n1-light.svg">
+    <img alt="Status: single run, n equals 1" src=".github/assets/stamp-n1-light.svg" height="36">
+  </picture>
+</p>
 
 **Kernel impact:** Clock updated from SPOTLIGHT → SLASH → SKIN to SPOTLIGHT → SLASH → CHECK → SKIN. New rule added to SLASH definition: self-knowledge claims (parameter count, hardware, energy cost) are unknown by default.
 

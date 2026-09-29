@@ -69,6 +69,14 @@ A system that never sheaths isn't careful — it's quiet about its failures. Ref
 Withdrawn in v0.2.1. See CHANGELOG.md. The associated incident was retired
 as Stage 0 red-team context rather than treated as a standalone finding.
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stamp-withdrawn-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/stamp-withdrawn-light.svg">
+    <img alt="Status: withdrawn" src=".github/assets/stamp-withdrawn-light.svg" height="36">
+  </picture>
+</p>
+
 ---
 
 ## Finding 7: A Gate Is Not the Gate You Need
@@ -77,6 +85,14 @@ as Stage 0 red-team context rather than treated as a standalone finding.
 separate Mana-Core codebase/version that is not currently published or
 publicly verifiable from this repository (no matching Sentry/confirmation
 implementation found in the public archived mana-core-v2).
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stamp-unknown-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/stamp-unknown-light.svg">
+    <img alt="Status: provenance unknown" src=".github/assets/stamp-unknown-light.svg" height="36">
+  </picture>
+</p>
 
 Mana-Core's live execution path has a real safety gate (Sentry LLM classification + pattern allowlisting). Dead code in the same codebase (confirm_execution, should_auto_run) implements human confirmation — a different, stronger gate — but is never called from the live path.
 
